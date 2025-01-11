@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDesignPattern", "Behavioral\StrategyDesignPattern\StrategyDesignPattern.csproj", "{76D5D845-1DD4-4831-82B2-59D07A95EF7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateDesignPattern", "Behavioral\TemplateDesignPattern\TemplateDesignPattern.csproj", "{ECAB31A8-EA7D-46DB-A05B-A9F9F14FE40E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,11 +13,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{76D5D845-1DD4-4831-82B2-59D07A95EF7A} = {C9532E01-241C-4205-B2D3-1127BE882572}
+		{ECAB31A8-EA7D-46DB-A05B-A9F9F14FE40E} = {C9532E01-241C-4205-B2D3-1127BE882572}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{76D5D845-1DD4-4831-82B2-59D07A95EF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{76D5D845-1DD4-4831-82B2-59D07A95EF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76D5D845-1DD4-4831-82B2-59D07A95EF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76D5D845-1DD4-4831-82B2-59D07A95EF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAB31A8-EA7D-46DB-A05B-A9F9F14FE40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAB31A8-EA7D-46DB-A05B-A9F9F14FE40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAB31A8-EA7D-46DB-A05B-A9F9F14FE40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAB31A8-EA7D-46DB-A05B-A9F9F14FE40E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
